@@ -11,4 +11,7 @@ various custom tools designed for the lab. The lab provides a unified environmen
 researchers can rapidly prototype, visualize, and evaluate spatial simulations driven by real-time hardware and 
 simulation software.
 
-## 
+## Active Projects
+
+### [Photovoltaic Systems Lab](https://github.com/FLC-Solar-Lab) 
+An education-focused virtual simulation of photovoltaic modules and their systems.
