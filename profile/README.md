@@ -15,3 +15,9 @@ simulation software.
 
 ### [Photovoltaic Systems Lab](https://github.com/FLC-Solar-Lab) 
 An education-focused virtual simulation of photovoltaic modules and their systems.
+
+### [Mixed Reality Ping Pong](https://github.com/alarson1/FLC-Ping-Pong)
+A mixed reality Ping Pong demonstration app
+
+### [Bonita Peak Mine Project](https://github.com/alarson1/FLC-Bonita-Peak-Mine)
+A visialization app of the Bonita Peak Mine system
