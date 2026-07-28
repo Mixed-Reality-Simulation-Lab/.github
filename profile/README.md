@@ -21,3 +21,6 @@ A mixed reality Ping Pong demonstration app
 
 ### [Bonita Peak Mine Project](https://github.com/alarson1/FLC-Bonita-Peak-Mine)
 A visialization app of the Bonita Peak Mine system
+
+### [Bloch-Sphere Sim](https://github.com/Mixed-Reality-Simulation-Lab/Bloch-Sphere)
+A qubit state-change game centering around a 3D model of a bloch sphere and utilizing various quantum gates.
